@@ -175,7 +175,6 @@
 
 #buttons {
     width: 350px;
-    max-height: 75vh;
     overflow-x: hidden;
     overflow-y: auto;
     padding: 12px;
